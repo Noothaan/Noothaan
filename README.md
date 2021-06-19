@@ -1,3 +1,2 @@
-![Noothaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noothaan&show_icons=true)
-![Noothaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noothan&show_icons=true&theme=radical)
+![Noothan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noothaan&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noothaan)]
